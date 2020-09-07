@@ -75,6 +75,8 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Spring Academy](https://www.youtube.com/c/SpringAcademy/) - Video tutorials about Spring, with focus on Spring Cloud AWS and Spring Data.
 * [Spring Developer](https://www.youtube.com/user/SpringSourceDev/) - The official YouTube channel for the Spring project.
 * [Spring I/O Conference](https://www.youtube.com/c/SpringIOConference/) - Videos of keynotes and talks from all the past editions of the Spring I/O Conference.
+* [Laurentiu Spilca](https://www.youtube.com/LaurentiuSpilca) - Video tutorials about Spring Fundamentals and Spring Security.
+
 
 ## Spring Project Resources
 
