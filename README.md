@@ -18,7 +18,7 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
   * [Spring Security](#spring-security)
 * [Other Resources](#other-resources)
   * [Blogs](#blogs)
-  * [YouTube Channels](#youtube-channels)
+  * [YouTube Channels and Playlists](#youtube-channels-and-playlists)
 * [Spring Project Resources](#spring-project-resources)
 * [Contributing](#contributing)
 
@@ -70,13 +70,13 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Marco Behler](https://www.marcobehler.com/guides) - Guides and tutorials about programming Java and Spring applications.
 * [Reflectoring](https://reflectoring.io/) - Guides and tutorials about Spring Boot, Java, and software development principles.
 
-### YouTube Channels
+### YouTube Channels and Playlists
 
+* [Laurentiu Spilca](https://www.youtube.com/LaurentiuSpilca) - Video tutorials about Spring Fundamentals and Spring Security.
 * [Spring Academy](https://www.youtube.com/c/SpringAcademy/) - Video tutorials about Spring, with focus on Spring Cloud AWS and Spring Data.
 * [Spring Developer](https://www.youtube.com/user/SpringSourceDev/) - The official YouTube channel for the Spring project.
 * [Spring I/O Conference](https://www.youtube.com/c/SpringIOConference/) - Videos of keynotes and talks from all the past editions of the Spring I/O Conference.
-* [Laurentiu Spilca](https://www.youtube.com/LaurentiuSpilca) - Video tutorials about Spring Fundamentals and Spring Security.
-
+* [Spring Tips](https://www.youtube.com/playlist?list=PLgGXSWYM2FpPw8rV0tZoMiJYSCiLhPnOc) - Video playlist with tips and tutorials about Spring by Josh Long.
 
 ## Spring Project Resources
 
