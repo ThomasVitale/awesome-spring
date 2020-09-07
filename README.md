@@ -4,6 +4,8 @@
 
 A curated list of awesome books, tutorials, courses, and resources for the Spring framework ecosystem.
 
+If you're new to Spring, start with watching the [What is Spring?](https://www.youtube.com/watch?v=Spzug_SjJnM) video.
+
 ## Contents
 
 * [Books](#books)
