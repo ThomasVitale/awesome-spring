@@ -69,6 +69,9 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Baeldung](https://www.baeldung.com/) - In-depth articles and tutorials in the Java ecosystem and web development, with a strong focus on Spring, Spring Security and RESTful APIs.
 * [Marco Behler](https://www.marcobehler.com/guides) - Guides and tutorials about programming Java and Spring applications.
 * [Reflectoring](https://reflectoring.io/) - Guides and tutorials about Spring Boot, Java, and software development principles.
+* [VMware Tanzu Developer](https://tanzu.vmware.com/developer/topics/spring/) - Guides, videos, and Code Samples about Spring framework .
+
+
 
 ### YouTube Channels and Playlists
 
