@@ -11,6 +11,7 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Books](#books)
 * [Courses](#courses)
 * [Podcasts](#podcasts)
+* [Events](#events)
 * [Tutorials](#tutorials)
   * [Spring Boot](#spring-boot)
   * [Spring Cloud](#spring-cloud)
