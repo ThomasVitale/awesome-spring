@@ -11,6 +11,7 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Books](#books)
 * [Courses](#courses)
 * [Podcasts](#podcasts)
+* [Events](#events)
 * [Tutorials](#tutorials)
   * [Spring Boot](#spring-boot)
   * [Spring Cloud](#spring-cloud)
@@ -38,6 +39,10 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 ## Podcasts
 
 * [Bootiful Podcast](http://bootifulpodcast.fm/) - A "celebration of the real heroes that drive ecosystems", hosted by the Spring developer advocate Josh Long.
+
+## Events
+
+* [Spring One](https://springone.io/) - A two-day conference that gathering developers, cloud engineers, and leaders to share knowledge about the Spring Framework ecosystem.
 
 ## Tutorials
 
@@ -69,6 +74,9 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Baeldung](https://www.baeldung.com/) - In-depth articles and tutorials in the Java ecosystem and web development, with a strong focus on Spring, Spring Security and RESTful APIs.
 * [Marco Behler](https://www.marcobehler.com/guides) - Guides and tutorials about programming Java and Spring applications.
 * [Reflectoring](https://reflectoring.io/) - Guides and tutorials about Spring Boot, Java, and software development principles.
+* [VMware Tanzu Developer](https://tanzu.vmware.com/developer/topics/spring/) - Guides, videos, and Code Samples about Spring framework .
+
+
 
 ### YouTube Channels and Playlists
 
