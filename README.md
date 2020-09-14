@@ -85,6 +85,9 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Spring Developer](https://www.youtube.com/user/SpringSourceDev/) - The official YouTube channel for the Spring project.
 * [Spring I/O Conference](https://www.youtube.com/c/SpringIOConference/) - Videos of keynotes and talks from all the past editions of the Spring I/O Conference.
 * [Spring Tips](https://www.youtube.com/playlist?list=PLgGXSWYM2FpPw8rV0tZoMiJYSCiLhPnOc) - Video playlist with tips and tutorials about Spring by Josh Long.
+* [Greg L. Turnquist's Spring Boot videos](https://www.youtube.com/GregTurnquist) - Collection of videos discussing Spring Boot by Greg Turnquist.
+
+(For Channels you enjoy, subscribe and click on the notification bell icon.)
 
 ## Spring Project Resources
 
