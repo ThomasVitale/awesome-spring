@@ -30,6 +30,7 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Hacking with Spring Boot 2.3: Reactive Edition](https://www.amazon.com/Hacking-Spring-Boot-2-3-Reactive-ebook/dp/B086722L4L), 2020 - Learn the latest Spring features to build modern, reactive web applications with Spring Boot.
 * [Practical Guide to Building an API Back End with Spring Boot](https://www.infoq.com/minibooks/spring-boot-building-api-backend/), 2018 - Learn how to build an API backend using Spring Boot, Spring Data, and Spring Security.
 * [Reactive Spring](https://leanpub.com/reactive-spring), 2020 - An introduction to reactive programming and its implementation in the Spring ecosystem.
+* [Spring in Action](https://www.manning.com/books/spring-in-action-fifth-edition), 2018 - A guide through Spring’s core features, reactive programming, microservices, service discovery, RESTful APIs, deployment, and best practices.
 * [Spring Boot: Up & Running](https://learning.oreilly.com/library/view/spring-boot-up/9781492076971/), 2021 - A guide through Spring Boot’s architecture and approach, along with topics such as debugging, testing, and deployment.
 * [Spring Security in Action](https://www.manning.com/books/spring-security-in-action), 2020 - Learn how to secure web applications from the most common threats using Spring Security.
 
