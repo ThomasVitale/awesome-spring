@@ -1,6 +1,6 @@
 # 🍃Awesome Spring
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![GitHub Super-Linter](https://github.com/ThomasVitale/awesome-spring/workflows/Lint%20Code%20Base/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
 A curated list of awesome books, tutorials, courses, and resources for the Spring framework ecosystem.
 
