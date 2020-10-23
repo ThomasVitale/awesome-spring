@@ -36,7 +36,7 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 
 ## Courses
 
-* [Testing Spring Boot Applications Masterclass](https://rieckpil.de/courses/testing-spring-boot-applications-masterclass/) - Learn about testing Spring Boot applications and make the most of the testing libraries like JUnit 5, Mockito, Selenium, WireMock, Testcontainers, LocalStack, Awaitility while using real word application examples.
+* [Testing Spring Boot Applications Masterclass](https://rieckpil.de/courses/testing-spring-boot-applications-masterclass/) - Learn about testing Spring Boot applications and make the most of the testing libraries like JUnit 5, Mockito, Selenium, WireMock, Testcontainers, LocalStack, Awaitility while using real-world application examples.
 * [The Confident Spring Professional](https://www.marcobehler.com/courses/spring-professional) - Built to give you a comprehensive understanding of the Spring ecosystem, including Spring Framework, Spring MVC, Spring Data, and Spring Boot.
 
 ## Podcasts
