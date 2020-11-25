@@ -103,10 +103,10 @@ _A collection of awesome YouTube channels and playlists about the Spring landsca
 * [Spring Tips](https://www.youtube.com/playlist?list=PLgGXSWYM2FpPw8rV0tZoMiJYSCiLhPnOc) - Video playlist with tips and tutorials about Spring by Josh Long.
 
 
-### Code Generators
+### Project Scaffolding
 
-* [Spring Initializr](https://start.spring.io/) - Get the basic structure of your Spring Boot project with your config and dependencies.
 * [Bootify](https://bootify.io) - Generate Spring Boot apps with custom database and REST API.
+* [Spring Initializr](https://start.spring.io/) - Get the basic structure of your Spring Boot project with your config and dependencies.
 
 ## Contributing
 
