@@ -102,6 +102,12 @@ _A collection of awesome YouTube channels and playlists about the Spring landsca
 * [Spring I/O Conference](https://www.youtube.com/c/SpringIOConference/) - Videos of keynotes and talks from all the past editions of the Spring I/O Conference.
 * [Spring Tips](https://www.youtube.com/playlist?list=PLgGXSWYM2FpPw8rV0tZoMiJYSCiLhPnOc) - Video playlist with tips and tutorials about Spring by Josh Long.
 
+
+### Project Scaffolding
+
+* [Bootify](https://bootify.io) - Generate Spring Boot apps with custom database and REST API.
+* [Spring Initializr](https://start.spring.io/) - Get the basic structure of your Spring Boot project with your config and dependencies.
+
 ## Contributing
 
 Contributions are very welcome!
