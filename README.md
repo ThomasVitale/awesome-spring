@@ -106,6 +106,7 @@ _A collection of awesome YouTube channels and playlists about the Spring landsca
 ### Project Scaffolding
 
 * [Bootify](https://bootify.io) - Generate Spring Boot apps with custom database and REST API.
+* [JHipster](https://www.jhipster.tech/) - Quickly generate, develop, and deploy Spring Boot web applications and microservice architectures.
 * [Spring Initializr](https://start.spring.io/) - Get the basic structure of your Spring Boot project with your config and dependencies.
 
 ## Contributing
