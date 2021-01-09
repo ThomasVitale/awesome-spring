@@ -77,6 +77,7 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Sample Credit Card Application with Spring Cloud ecosystem](https://github.com/OlgaMaciaszek/spring-cloud-netflix-demo), Olga Maciaszek-Sharma - Demo project showcasing the new Spring Cloud stack, after the Netflix stack deprecation.
 * [Springy Store Microservices](https://github.com/mohamed-taman/Springy-Store-Microservices), Mohamed Taman - A conceptual simple microservices-based project using Spring Boot and Spring Cloud, demonstrate how the Store services are created to be a cloud-native and 12-factor app agnostic.
 * [VueJS and Spring Boot](https://github.com/jonashackt/spring-boot-vuejs), Jonas Hecht - Example project showing how to build a Spring Boot App providing a GUI with Vue.js.
+* [Spring Boot Blog REST API](https://github.com/osopromadze/Spring-Boot-Blog-REST-API), osopromadze - Building Restful CRUD APIS for a blog using Spring Boot, Spring Security, Mysql, JPA and Hibernate.
 
 ## Other Resources
 
