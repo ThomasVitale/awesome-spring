@@ -51,7 +51,9 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 
 ### Spring Boot
 
+* [Reliable Websockets-Based Pub/Sub with Spring Boot](https://ably.com/blog/websockets-pubsub-spring-boot) - What is WebSockets? What is Pub/Sub? Make the most out of them in your Spring Boot applications.
 * [What is Spring Boot? Autoconfigurations In-Depth](https://www.marcobehler.com/guides/spring-boot) - A guide to get an in-depth understanding of what Spring Boot is, how its auto-configuration works and what the difference with the Spring Framework is.
+
 
 ### Spring Cloud
 
