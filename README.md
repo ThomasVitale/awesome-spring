@@ -96,6 +96,7 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 _A collection of awesome YouTube channels and playlists about the Spring landscape. Subscribe to them to receive all the latest content._
 
 * [Greg L. Turnquist](https://www.youtube.com/GregTurnquist) - Collection of videos discussing Spring Boot by Greg Turnquist.
+* [Java Brains](https://www.youtube.com/c/JavaBrainsChannel) - Collection of videos discussing Java and Spring Boot in detail by Koushik Kothagal.
 * [Laurentiu Spilca](https://www.youtube.com/LaurentiuSpilca) - Video tutorials about Spring Fundamentals and Spring Security.
 * [Spring Academy](https://www.youtube.com/c/SpringAcademy/) - Video tutorials about Spring, with focus on Spring Cloud AWS and Spring Data.
 * [Spring Boot Quick Start](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x) - Video tutorials to create full end-to-end Spring applications using Spring Boot.
