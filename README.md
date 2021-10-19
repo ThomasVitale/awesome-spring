@@ -33,6 +33,8 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Spring in Action](https://www.manning.com/books/spring-in-action-fifth-edition), 2018 - A guide through Spring’s core features, reactive programming, microservices, service discovery, RESTful APIs, deployment, and best practices.
 * [Spring Boot: Up & Running](https://learning.oreilly.com/library/view/spring-boot-up/9781492076971/), 2021 - A guide through Spring Boot’s architecture and approach, along with topics such as debugging, testing, and deployment.
 * [Spring Security in Action](https://www.manning.com/books/spring-security-in-action), 2020 - Learn how to secure web applications from the most common threats using Spring Security.
+* [Spring Boot in Practice](https://www.manning.com/books/spring-boot-in-practice), 2021 - This practical guide presents dozens of relevant scenarios in a convenient problem-solution-discussion format.
+* [Spring in Action, Sixth Edition](https://www.manning.com/books/spring-in-action-sixth-edition), 2021 - Covers all of the new features of Spring 5.3 and Spring Boot 2.4 along with examples of reactive programming, Spring Security for REST Services, and bringing reactivity to your databases.
 
 ## Courses
 
