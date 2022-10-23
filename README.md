@@ -31,10 +31,13 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Spring Microservices in Action](https://www.manning.com/books/spring-microservices-in-action-second-edition) 2nd edition (John Carnell, Illary Huaylupo Sánchez), 2021 - A book about build microservice-based applications using Java and Spring.
 * [Spring Security in Action](https://www.manning.com/books/spring-security-in-action) (Laurențiu Spilcă), 2020 - Learn how to secure web applications from the most common threats using Spring Security.
 * [Spring Start Here](https://www.manning.com/books/spring-start-here) (Laurențiu Spilcă), 2021 - It introduces you to Java development with Spring by concentrating on core concepts like the Spring context, AOP, bean configuration, Spring MVC, and data persistence.
+* [Stratospheric](https://stratospheric.dev) (Björn Wilmsmann, Philip Riecks, Tom Hombergs), 2022 - All you need to know to get a Spring Boot application into production with AWS.
+* [Taming Thymeleaf](https://www.wimdeblauwe.com/books/taming-thymeleaf/) (Wim Deblauwe), 2021 - Practical guide about building web applications with Spring Boot and Thymeleaf.
 
 ## Courses
 
 * [Cloud Native Java with Kubernetes](https://learning.oreilly.com/videos/cloud-native-java/9780137834051) 2nd edition (Josh Long) - It covers how high-performance organizations are addressing the requirements of distribution with Spring Boot, Spring Cloud, and Kubernetes to be more resilient, reliable, robust, and scalable.
+* [From Zero to Production with Spring Boot and AWS](https://stratospheric.dev/online-course/) - A hands-on online course to learn all you need to know to get a Spring Boot application into production with AWS.
 * [Reactive Spring Boot](https://learning.oreilly.com/videos/reactive-spring-boot/9780137831463) 3rd edition (Josh Long) - It introduces key concepts of reactive programming and examines different aspects of the Spring ecosystem that lend themselves to the functional and reactive style of programming.
 * [Testing Spring Boot Applications Masterclass](https://rieckpil.de/courses/testing-spring-boot-applications-masterclass/) - Learn about testing Spring Boot applications and make the most of the testing libraries like JUnit 5, Mockito, Selenium, WireMock, Testcontainers, LocalStack, Awaitility while using real-world application examples.
 * [The Confident Spring Professional](https://www.marcobehler.com/courses/spring-professional) - Built to give you a comprehensive understanding of the Spring ecosystem, including Spring Framework, Spring MVC, Spring Data, and Spring Boot.
@@ -79,6 +82,7 @@ _A collection of awesome YouTube channels and playlists about the Spring landsca
 * [Greg L. Turnquist](https://www.youtube.com/GregTurnquist) - Collection of videos discussing Spring Boot by Greg Turnquist.
 * [Java Brains](https://www.youtube.com/c/JavaBrainsChannel) - Collection of videos discussing Java and Spring Boot in detail by Koushik Kothagal.
 * [Laurențiu Spilcă](https://www.youtube.com/LaurentiuSpilca) - Video tutorials about Spring Fundamentals and Spring Security.
+* [SivaLabs](https://www.youtube.com/c/SivaLabs) - Video tutorials about Java, Spring and Kubernetes.
 * [Spring Academy](https://www.youtube.com/c/SpringAcademy/) - Video tutorials about Spring, with focus on Spring Cloud AWS and Spring Data.
 * [Spring Boot Quick Start](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTbx8p2oCgcAQGQyqN8XeA1x) - Video tutorials to create full end-to-end Spring applications using Spring Boot.
 * [Spring Developer](https://www.youtube.com/user/SpringSourceDev/) - The official YouTube channel for the Spring project.
