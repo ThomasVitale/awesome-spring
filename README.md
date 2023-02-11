@@ -20,7 +20,7 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 
 ## Books
 
-* [Cloud Native Java](http://cloudnativejava.io/) (Josh Long), 2017 - Learn how to build scalable & resilient cloud native applications with Spring Boot, Spring Cloud, and Cloud Foundry.
+* [Cloud Native Java](https://www.oreilly.com/library/view/cloud-native-java/9781449374631/) (Josh Long), 2017 - Learn how to build scalable & resilient cloud native applications with Spring Boot, Spring Cloud, and Cloud Foundry.
 * [Cloud Native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action) (Thomas Vitale), 2022 - A hands-on guide to cloud native application development using Spring Boot, Spring Cloud, Docker, and Kubernetes.
 * [Hacking with Spring Boot 2.3: Reactive Edition](https://www.amazon.com/Hacking-Spring-Boot-2-3-Reactive-ebook/dp/B086722L4L) (Greg L. Turnquist), 2020 - Learn the latest Spring features to build modern, reactive web applications with Spring Boot.
 * [Practical Guide to Building an API Back End with Spring Boot](https://www.infoq.com/minibooks/spring-boot-building-api-backend) (Wim Deblauwe), 2018 - Learn how to build an API backend using Spring Boot, Spring Data, and Spring Security.
