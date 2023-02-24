@@ -28,6 +28,7 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Cloud Native Java](http://cloudnativejava.io/), 2017 - Learn how to build scalable & resilient cloud native applications with Spring Boot, Spring Cloud, and Cloud Foundry.
 * [Cloud Native Spring in Action](https://www.manning.com/books/cloud-native-spring-in-action), 2021 - A hands-on guide to cloud native application development using Spring Boot, Spring Cloud, Docker, and Kubernetes.
 * [Hacking with Spring Boot 2.3: Reactive Edition](https://www.amazon.com/Hacking-Spring-Boot-2-3-Reactive-ebook/dp/B086722L4L), 2020 - Learn the latest Spring features to build modern, reactive web applications with Spring Boot.
+* [Java Persistence with Spring Data and Hibernate](https://www.manning.com/books/java-persistence-with-spring-data-and-hibernate), 2023 - Master Java persistence using the industry-leading tools Spring Data and Hibernate.
 * [Practical Guide to Building an API Back End with Spring Boot](https://www.infoq.com/minibooks/spring-boot-building-api-backend/), 2018 - Learn how to build an API backend using Spring Boot, Spring Data, and Spring Security.
 * [Reactive Spring](https://leanpub.com/reactive-spring), 2020 - An introduction to reactive programming and its implementation in the Spring ecosystem.
 * [Spring in Action](https://www.manning.com/books/spring-in-action-fifth-edition), 2018 - A guide through Spring’s core features, reactive programming, microservices, service discovery, RESTful APIs, deployment, and best practices.
