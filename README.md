@@ -73,6 +73,7 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 * [Spring Official Blog](https://spring.io/blog) - Official blog of the Spring community.
 * [Spring Official Guides](https://spring.io/guides) - Tutorials, guides, and in-depth analysis about the Spring projects.
 * [VMware Tanzu Developer](https://tanzu.vmware.com/developer/topics/spring/) - Guides, videos, and Code Samples about Spring framework .
+* [Tutorialspoint](https://www.tutorialspoint.com/spring_boot) -  Tutorials designed for Java developers to understand and develop production-ready spring applications with minimum configurations.
 
 ### YouTube Channels and Playlists
 
