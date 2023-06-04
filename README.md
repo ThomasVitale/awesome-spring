@@ -96,6 +96,10 @@ _A collection of awesome YouTube channels and playlists about the Spring landsca
 * [JHipster](https://www.jhipster.tech/) - Quickly generate, develop, and deploy Spring Boot web applications and microservice architectures.
 * [Spring Initializr](https://start.spring.io/) - Get the basic structure of your Spring Boot project with your config and dependencies.
 
+### Tools
+
+* [Ostara] - Management tool that provides various features to monitor and interact with Spring Boot Applications via Actuator.
+
 ## Contributing
 
 Contributions are very welcome!
