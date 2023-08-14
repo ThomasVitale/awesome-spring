@@ -37,11 +37,16 @@ If you're new to Spring, start with watching the [What is Spring?](https://www.y
 
 ## Courses
 
+* [Spring Framework: Spring Integration](https://app.pluralsight.com/paths/skill/spring-framework-spring-integration) a learning path for learning spring integration
+* [Spring Framework: Data Access with Spring](https://app.pluralsight.com/paths/skill/spring-framework-data-access-with-spring) a learning path for learning data access with spring
+* [Spring Framework: Core Spring](https://app.pluralsight.com/paths/skill/spring-framework-core-spring) a learning path for learnig spring core and conepts like AOP
 * [Cloud Native Java with Kubernetes](https://learning.oreilly.com/videos/cloud-native-java/9780137834051) 2nd edition (Josh Long) - It covers how high-performance organizations are addressing the requirements of distribution with Spring Boot, Spring Cloud, and Kubernetes to be more resilient, reliable, robust, and scalable.
 * [From Zero to Production with Spring Boot and AWS](https://stratospheric.dev/online-course/) - A hands-on online course to learn all you need to know to get a Spring Boot application into production with AWS.
 * [Reactive Spring Boot](https://learning.oreilly.com/videos/reactive-spring-boot/9780137831463) 3rd edition (Josh Long) - It introduces key concepts of reactive programming and examines different aspects of the Spring ecosystem that lend themselves to the functional and reactive style of programming.
 * [Testing Spring Boot Applications Masterclass](https://rieckpil.de/courses/testing-spring-boot-applications-masterclass/) - Learn about testing Spring Boot applications and make the most of the testing libraries like JUnit 5, Mockito, Selenium, WireMock, Testcontainers, LocalStack, Awaitility while using real-world application examples.
 * [The Confident Spring Professional](https://www.marcobehler.com/courses/spring-professional) - Built to give you a comprehensive understanding of the Spring ecosystem, including Spring Framework, Spring MVC, Spring Data, and Spring Boot.
+
+
 
 ## Podcasts
 
@@ -89,6 +94,8 @@ _A collection of awesome YouTube channels and playlists about the Spring landsca
 * [Spring Developer](https://www.youtube.com/user/SpringSourceDev/) - The official YouTube channel for the Spring project.
 * [Spring I/O Conference](https://www.youtube.com/c/SpringIOConference/) - Videos of keynotes and talks from all the past editions of the Spring I/O Conference.
 * [Spring Tips](https://www.youtube.com/playlist?list=PLgGXSWYM2FpPw8rV0tZoMiJYSCiLhPnOc) - Video playlist with tips and tutorials about Spring by Josh Long.
+* [Saggu](https://www.youtube.com/@SagguUK) - A youtube channel contains many videos for learning spring boot
+
 
 ### Project Scaffolding
 
